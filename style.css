@@ -1,0 +1,206 @@
+body {
+    background-color: #000000;
+}
+
+.ym-light-theme {
+    --ym-background-color-primary-enabled-content: #e8e3ff;
+    --ym-background-color-secondary-enabled-blur: s#5900ff;
+    --ym-background-color-primary-enabled-basic: #ded9f5;
+    --ym-background-color-primary-enabled-player: #e8e3ff;
+}
+
+.ym-dark-theme {
+    --ym-background-color-primary-enabled-content: #060022;
+    --ym-background-color-secondary-enabled-blur: s#5900ff;
+    --ym-background-color-primary-enabled-basic: #070029;
+    --ym-background-color-primary-enabled-player: #060022;
+}
+
+.DefaultLayout_content__md70Z {
+    border-radius: 10px;
+}
+
+.MainPage_beta__y32vb {
+    display: none;
+}
+
+.PlayerBar_root__cXUnU {
+    grid-template-columns: repeat(1,85%);
+    height: -webkit-fill-available;
+    width: 200px;
+    -webkit-margin-before: 0px;
+    margin-bottom: 9.9%;
+    margin-block-start: 140px;
+}
+.DefaultLayout_root__7J0wo {
+    width: 100%;
+    grid-template: 
+    "navbar playerbar content"
+    "navbar playerbar content" auto/auto 1fr;
+    grid-template-columns: fit-content fit-content auto; 
+}
+
+.PlayerBarDesktop_infoCard__tnLS6, .PlayerBarDesktop_info__56v53 {
+    flex-direction: column;
+}
+
+.DefaultLayout_content__md70Z {
+    border-radius: 10px 10px 10px 10px;
+    grid-area: content;
+    position: fixed;
+    left: 215px;
+    margin-right: 70px;
+    top: 37px;
+    bottom: 12px;
+}
+
+.PlayerBarDesktop_root__d2Hwi {
+    border-radius: 0px 10px 10px 0px;
+    grid-area: content;
+    position: fixed;
+    left: 0px;
+    right: 12px;
+    top: 32px;
+    bottom: 1px;
+    --player-cover-width: 150px;
+    --player-cover-height: 150px;
+    justify-content: center;
+}
+
+.PlayerBarDesktop_sonata__sJHY_ {
+    gap: 30px;
+    height: 100px;
+}
+
+.PlayerBarDesktop_infoCard__tnLS6 {
+    --player-controls-preserved-width: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.PlayerBar_root__cXUnU * .cpeagBA1_PblpJn8Xgtv {
+    transition: ease-in-out all 0.1s;
+    background: #ffffff09;
+}
+
+.PlayerBar_root__cXUnU * .cpeagBA1_PblpJn8Xgtv:hover {
+    background: #8be8ff1c;
+    scale: 1.1;
+}
+
+.PlayerBar_root__cXUnU * .cpeagBA1_PblpJn8Xgtv:disabled {
+    background: #00000000;
+    display: clip;
+}
+
+._MWOVuZRvUQdXKTMcOPx {
+    opacity: 1;
+}
+
+.SonataControlsDesktop_root__oluUH {
+    scale: 1;
+}
+
+.SHvrm0VRiLVwGqJJjNO8 {
+    transition: ease-in-out all 0.1s;
+    height: 8px;
+    padding: 2px;
+    scale: 0.8;
+}
+
+.SHvrm0VRiLVwGqJJjNO8:hover {
+    height: 8px;
+    padding: 2px;
+    scale: 1;
+}
+
+.YMDRPC {
+    display: none;
+}
+
+.SHvrm0VRiLVwGqJJjNO8:before {
+    height: 6px;
+}
+
+.SonataControlsDesktop_sonataButtons__ux0qT {
+    gap: 10px;
+}
+
+.NavbarDesktop_logo__Z4jGx {
+    display: none;
+}
+
+.VibeBlock_root__z7LtR {
+    margin-top: 0px;
+    border-radius: 10px 10px 10px 10px;
+    overflow: hidden;
+    width: -webkit-fill-available;
+    margin-left: 0px;
+    height: 400px;
+    min-height: 0px;
+}
+
+.MainPage_header__lPh0v {
+    overflow: hidden;
+    width: -webkit-fill-available;
+    margin-left:-16px;
+    height: 80px;
+}
+
+.Skeleton_headerContainer__pRHVj {
+    margin-block-start: -35px;
+}
+
+.PinsList_root__LN_2Z {
+    display: clip;
+    position: fixed;
+    height: -webkit-fill-available;
+    width: 73px;
+    right: -2.4px;
+    top: 40px;
+    bottom: 15px;
+    margin-bottom: 0px;
+    z-index: 2;
+}
+
+[aria-label="Настройки звука"] {
+    display: none;
+}
+
+
+[aria-label="Очередь"] {
+    display: none;
+}
+
+[aria-label="Текст"] {
+    display: none;
+}
+
+.Content_rootOld__g85_m {
+    right: -2px;
+}
+
+.Footer_root__ugyur {
+    display: none;
+}
+
+.CollectionPage_description__A3dny {
+    display: none;
+}
+
+.SonataControlsDesktop_buttonContainer__PczhH {
+    display: none;
+}
+
+.mdbxU6IWInQTsVjwnapn {
+    display: none;
+}
+
+.NavbarDesktop_user__dzbuH {
+    position: absolute;
+    bottom: -10px;
+}
+
+.Pin_meta__MzX_7 {
+    display: none;
+}
