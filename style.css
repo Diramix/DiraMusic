@@ -151,12 +151,16 @@ body {
     margin-block-start: -35px;
 }
 
+.Pin_contextMenu__WGmhp {
+    display: none;
+}
+
 .PinsList_root__LN_2Z {
     display: clip;
     position: fixed;
     height: -webkit-fill-available;
     width: 73px;
-    right: -2.4px;
+    right: -2.6px;
     top: 40px;
     bottom: 15px;
     margin-bottom: 0px;
