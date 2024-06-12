@@ -17,3 +17,9 @@ https://discord.gg/ky6bcdy7KA
 3. Откройте боковое меню с закрепами в Яндекс Музыке!
 
 4. Всё!
+
+CHANGELOG DiraMusic! Sigma 5 1.2
+
+1. Убран "Pin_contextMenu__WGmhp"
+
+2. PinsList_root__LN_2Z {right: -2.6px}
