@@ -4,7 +4,7 @@
 
 Donations Alerts: https://www.donationalerts.com/r/diramix
 
-Тема "DiraMusic" для приложения "Яндекс Музыка Beta"
+Тема "DiraMusic!" для приложения "Яндекс Музыка Beta"
 
 Как установить!?!?!?!?!?
 
