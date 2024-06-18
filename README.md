@@ -3,23 +3,26 @@
 ![12](https://github.com/Diramix/DiraMusic/assets/79011730/2cf7b886-72b8-4be0-a05d-cb48806f52ef)
 # DiraMusic! Public Release
 
-ᓚᘏᗢ котик ждёт твоей монетки(
-https://www.donationalerts.com/r/diramix
+### DA, DS и Boosty:
+   ᓚᘏᗢ котик ждёт твоей монетки(
+   https://www.donationalerts.com/r/diramix
+   
+   Boosty
+   https://boosty.to/diramix
+   
+   А это Discord сервер
+   https://discord.gg/ky6bcdy7KA
 
-Boosty
-https://boosty.to/diramix
+### База:
 
-А это Discord сервер
-https://discord.gg/ky6bcdy7KA
+   Тема «DiraMusic!» для приложения «Яндекс Музыка Beta»
 
-Тема "DiraMusic!" для приложения "Яндекс Музыка Beta"
-
-Как установить!?!?!?!?!?
+### Как установить!?!?!?!?!?
 
 1. Сначала вам нужно скачать мод: https://github.com/PulseSync-Official/YMusic-DRPC.
    
 3. После установки запускаем программу и нажимаем на кнопку «Директория со стилями», кидаете туда ПАПКУ с темой.
    
-5. Откройте боковое меню с закреплёнными элементами в Яндекс.Музыке!
+5. Откройте боковое меню с закреплёнными элементами в Яндекс Музыке!
    
 7. Всё!
