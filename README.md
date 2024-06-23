@@ -1,9 +1,9 @@
 ![DiraMusic!](https://github.com/Diramix/DiraMusic/assets/79011730/b91c8203-5753-44ce-9c29-d9f775b832cf)
 ![License](https://img.shields.io/github/license/Diramix/Spotify-Music.svg?style=for-the-badge) ![Repo Size](https://img.shields.io/github/languages/code-size/Diramix/Spotify-Music.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/Diramix/Spotify-Music.svg?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/Diramix/Spotify-Music.svg?style=for-the-badge&social) ![Stars](https://img.shields.io/github/stars/Diramix/Spotify-Music.svg?style=for-the-badge)
 ### Powered by
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40px" width="40px" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40px" width="40px" /></a>
     
-# Spotify Music! Public Release
+# DiraMusic! Public Release
 
 ## Стол контента
 - [Ссылки](#Ссылки)
