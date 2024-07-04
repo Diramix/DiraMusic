@@ -29,9 +29,11 @@ body {
     height: -webkit-fill-available;
     width: 200px;
     -webkit-margin-before: 0px;
-    margin-bottom: 9.9%;
-    margin-block-start: 140px;
+    margin-bottom: 8%;
+    margin-block-start: 170px;
+    border-width: 0;
 }
+
 .DefaultLayout_root__7J0wo {
     width: 100%;
     grid-template: 
@@ -207,4 +209,18 @@ body {
 
 .Pin_meta__MzX_7 {
     display: none;
+}
+
+[data-test-id="SOUND_QUALITY_BUTTON"] {
+    display: none;
+}
+
+.Xx9Tg5ugzg1pkf8Zh421 {
+    margin-top: 12px;
+    min-height: 23px;
+    max-height: 23px;
+}
+
+.DevPanel_panel__LnoO2 {
+    background: #000;
 }
