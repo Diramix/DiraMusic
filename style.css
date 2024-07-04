@@ -20,10 +20,7 @@ body {
     border-radius: 10px;
 }
 
-.MainPage_beta__y32vb {
-    display: none;
-}
-
+/*Плеер*/
 .PlayerBar_root__cXUnU {
     grid-template-columns: repeat(1,85%);
     height: -webkit-fill-available;
@@ -116,20 +113,12 @@ body {
     scale: 1;
 }
 
-.YMDRPC {
-    display: none;
-}
-
 .SHvrm0VRiLVwGqJJjNO8:before {
     height: 6px;
 }
 
 .SonataControlsDesktop_sonataButtons__ux0qT {
     gap: 10px;
-}
-
-.NavbarDesktop_logo__Z4jGx {
-    display: none;
 }
 
 .VibeBlock_root__z7LtR {
@@ -153,10 +142,6 @@ body {
     margin-block-start: -35px;
 }
 
-.Pin_contextMenu__WGmhp {
-    display: none;
-}
-
 .PinsList_root__LN_2Z {
     display: clip;
     position: fixed;
@@ -169,50 +154,13 @@ body {
     z-index: 2;
 }
 
-[aria-label="Настройки звука"] {
-    display: none;
-}
-
-
-[aria-label="Очередь"] {
-    display: none;
-}
-
-[aria-label="Текст"] {
-    display: none;
-}
-
 .Content_rootOld__g85_m {
     right: -2px;
-}
-
-.Footer_root__ugyur {
-    display: none;
-}
-
-.CollectionPage_description__A3dny {
-    display: none;
-}
-
-.SonataControlsDesktop_buttonContainer__PczhH {
-    display: none;
-}
-
-.mdbxU6IWInQTsVjwnapn {
-    display: none;
 }
 
 .NavbarDesktop_user__dzbuH {
     position: absolute;
     bottom: -10px;
-}
-
-.Pin_meta__MzX_7 {
-    display: none;
-}
-
-[data-test-id="SOUND_QUALITY_BUTTON"] {
-    display: none;
 }
 
 .Xx9Tg5ugzg1pkf8Zh421 {
@@ -223,4 +171,21 @@ body {
 
 .DevPanel_panel__LnoO2 {
     background: #000;
+}
+
+/*ONLY display: none;*/
+.MainPage_beta__y32vb,
+.YMDRPC,
+.NavbarDesktop_logo__Z4jGx,
+.Pin_contextMenu__WGmhp,
+[aria-label="Настройки звука"],
+[aria-label="Очередь"],
+[aria-label="Текст"],
+.Footer_root__ugyur,
+.CollectionPage_description__A3dny,
+.SonataControlsDesktop_buttonContainer__PczhH,
+.mdbxU6IWInQTsVjwnapn,
+.Pin_meta__MzX_7,
+[data-test-id="SOUND_QUALITY_BUTTON"] {
+ display: none;
 }
