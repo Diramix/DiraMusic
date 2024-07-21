@@ -104,12 +104,6 @@ body {
     transition: ease-in-out all 0.1s;
     height: 8px;
     padding: 2px;
-    scale: 0.8;
-}
-
-.SHvrm0VRiLVwGqJJjNO8:hover {
-    height: 8px;
-    padding: 2px;
     scale: 1;
 }
 
@@ -206,4 +200,20 @@ body {
     position: absolute;
     visibility: visible;
     color: #ff0;
+}
+
+.PlayerBarDesktop_meta__6sm58 {
+    flex-direction: column;
+}
+
+.SyncLyricsCard_card__6NmKa {
+    position: fixed;
+    left: 50px;
+    top: 50px;
+    background: #fff1;
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 1;
+    border-color: #fff2;
+    border-style: dotted;
 }
