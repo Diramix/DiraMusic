@@ -28,8 +28,8 @@
     [YMusic-DRPC](https://github.com/PulseSync-Official/YMusic-DRPC) или
 
    [YMusic-NormalRPC](https://github.com/Diramix/YMusic-NormalRPC)
-2. Установите его по инструкции репазитория PulseSync или воспользуйтесь установщиком «NormalRPC».
-3. Теперь качаем тему.
+2. Установите его по инструкции репазитория «PulseSync» или воспользуйтесь установщиком «NormalRPC».
+3. Теперь качаем [тему](https://github.com/Diramix/DiraMusic/archive/refs/heads/main.zip).
 4. После установки запускаем программу и нажимаем на кнопку «Директория со стилями»/«Папка с темами», кидаете туда ПАПКУ с темой.
 5. Откройте боковое меню с закреплёнными элементами в Яндекс Музыке.
 6. И выберете тему в приложении мода.
