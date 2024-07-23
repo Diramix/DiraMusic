@@ -24,6 +24,7 @@ body {
 .PlayerBar_root__cXUnU {
     grid-template-columns: repeat(1,85%);
     height: -webkit-fill-available;
+    min-height: 55%;
     width: 200px;
     -webkit-margin-before: 0px;
     margin-bottom: 8%;
@@ -44,7 +45,7 @@ body {
 }
 
 .DefaultLayout_content__md70Z {
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 10px;
     grid-area: content;
     position: fixed;
     left: 215px;
@@ -61,8 +62,8 @@ body {
     right: 12px;
     top: 32px;
     bottom: 1px;
-    --player-cover-width: 150px;
-    --player-cover-height: 150px;
+    --player-cover-width: 100%;
+    --player-cover-height: 100%;
     justify-content: center;
 }
 
@@ -154,13 +155,14 @@ body {
 
 .NavbarDesktop_user__dzbuH {
     position: absolute;
-    bottom: -10px;
+    bottom: -13px;
+    left: -7px;
 }
 
 .Xx9Tg5ugzg1pkf8Zh421 {
-    margin-top: 12px;
-    min-height: 23px;
-    max-height: 23px;
+    margin-top: 15px;
+    min-height: 22px;
+    max-height: 22px;
 }
 
 .DevPanel_panel__LnoO2 {
@@ -172,16 +174,17 @@ body {
 .YMDRPC,
 .NavbarDesktop_logo__Z4jGx,
 .Pin_contextMenu__WGmhp,
-[aria-label="Настройки звука"],
-[aria-label="Очередь"],
-[aria-label="Текст"],
 .Footer_root__ugyur,
 .CollectionPage_description__A3dny,
 .SonataControlsDesktop_buttonContainer__PczhH,
 .mdbxU6IWInQTsVjwnapn,
-.Pin_meta__MzX_7,
-[data-test-id="SOUND_QUALITY_BUTTON"] {
+.Pin_meta__MzX_7
+/*.kprKZx99igczv4y5NX8O:disabled*/ {
  display: none;
+}
+
+.cpeagBA1_PblpJn8Xgtv:after {
+    flex-direction: column;
 }
 
 .LikesAndHistory_carousel__579RD {
@@ -203,7 +206,17 @@ body {
 }
 
 .PlayerBarDesktop_meta__6sm58 {
-    flex-direction: column;
+    display: block;
+}
+
+.PlayerBarDesktop_meta__6sm58 span{
+    display: block;
+    width: fit-content;
+}
+
+.ChangeVolume_root__HDxtA {
+    height: 50px;
+    left: -2px;
 }
 
 .SyncLyricsCard_card__6NmKa {
