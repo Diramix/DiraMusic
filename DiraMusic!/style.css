@@ -216,7 +216,15 @@ body {
 
 .ChangeVolume_root__HDxtA {
     height: 50px;
-    left: -2px;
+    margin-left: 15px;
+}
+
+body > div > section > div > button {
+    margin-left: 10px;
+}
+
+.PlayerBarDesktop_meta__6sm58 {
+    margin-left: 9px;
 }
 
 .SyncLyricsCard_card__6NmKa {
