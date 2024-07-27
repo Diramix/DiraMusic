@@ -192,13 +192,11 @@ body {
     margin-bottom: 13px;
 }
 
-.YMDRPC,
-.PSB {
+body > div > p {
     visibility: hidden;
 }
 
-.YMDRPC:before,
-.PSB:before {
+body > div > p:before {
     content: "DiraMusic!";
     position: absolute;
     visibility: visible;
