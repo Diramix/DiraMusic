@@ -155,7 +155,7 @@ body {
 
 .NavbarDesktop_user__dzbuH {
     position: absolute;
-    bottom: -13px;
+    bottom: 5px;
     left: -7px;
 }
 
@@ -166,7 +166,11 @@ body {
 }
 
 .DevPanel_panel__LnoO2 {
-    background: #000;
+    backdrop-filter: blur(1000px);
+}
+
+body > div > div > button.qU2apWBO1yyEK0lZ3lPO {
+    backdrop-filter: blur(1000px);
 }
 
 /*ONLY display: none;*/
@@ -178,7 +182,8 @@ body {
 .CollectionPage_description__A3dny,
 .SonataControlsDesktop_buttonContainer__PczhH,
 .mdbxU6IWInQTsVjwnapn,
-.Pin_meta__MzX_7
+.Pin_meta__MzX_7,
+.NavbarDesktop_logoWrapper__89ce6
 /*.kprKZx99igczv4y5NX8O:disabled*/ {
  display: none;
 }
@@ -218,7 +223,7 @@ body > div > p:before {
 }
 
 body > div > section > div > button {
-    margin-left: 10px;
+    margin-left: 9px;
 }
 
 .PlayerBarDesktop_meta__6sm58 {
