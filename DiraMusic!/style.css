@@ -241,3 +241,25 @@ body > div > section > div > button {
     border-color: #fff2;
     border-style: dotted;
 }
+
+[data-test-id="SOUND_QUALITY_BUTTON"] {
+    position: fixed;
+    margin-left: 90px;
+    margin-top: -32px;
+}
+
+[data-test-id="QUALITY_SETTINGS_CONTEXT_MENU"] {
+    position: fixed;
+    margin-left: 250px;
+}
+
+.QualitySettingsContextMenu_header__YGH7p,
+.QualitySettingsContextMenu_item_option__SSxha,
+.l3tE1hAMmBj2aoPPwU08,
+.vqAVPWFJlhAOleK_SLk4 {
+    color: #fff;
+}
+
+.QualitySettingsContextMenu_itemSubTitle__YGtQk {
+    color: #fff8;
+}

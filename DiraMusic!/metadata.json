@@ -3,6 +3,7 @@
     "name": "DiraMusic!",
     "author": "Diramix",
     "description": "Sigma 5",
-    "version": "1.7.2",
-    "css": "style.css"
+    "version": "1.8.0",
+    "css": "style.css",
+    "script": "script.js"
 }
