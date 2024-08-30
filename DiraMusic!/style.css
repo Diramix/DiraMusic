@@ -253,13 +253,15 @@ body > div > section > div > button {
     margin-left: 250px;
 }
 
-.QualitySettingsContextMenu_header__YGH7p,
-.QualitySettingsContextMenu_item_option__SSxha,
-.l3tE1hAMmBj2aoPPwU08,
-.vqAVPWFJlhAOleK_SLk4 {
-    color: #fff;
+[data-test-id="QUALITY_SETTINGS_CONTEXT_MENU"] * {
+  color: white !important;
 }
 
 .QualitySettingsContextMenu_itemSubTitle__YGtQk {
     color: #fff8;
+}
+
+[data-test-id="PLAYERBAR_DESKTOP_CONTEXT_MENU_BUTTON"][aria-expanded="true"],
+[data-test-id="SOUND_QUALITY_BUTTON"][aria-expanded="true"] {
+    color: #fff;
 }
