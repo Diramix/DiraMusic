@@ -109,7 +109,7 @@ body {
 }
 
 .SHvrm0VRiLVwGqJJjNO8:before {
-    height: 6px;
+    height: 4px;
 }
 
 .SonataControlsDesktop_sonataButtons__ux0qT {
@@ -183,9 +183,13 @@ body > div > div > button.qU2apWBO1yyEK0lZ3lPO {
 .SonataControlsDesktop_buttonContainer__PczhH,
 .mdbxU6IWInQTsVjwnapn,
 .Pin_meta__MzX_7,
-.NavbarDesktop_logoWrapper__89ce6
-/*.kprKZx99igczv4y5NX8O:disabled*/ {
+.NavbarDesktop_logoWrapper__89ce6 {
  display: none;
+}
+
+.PlayerBarDesktop_settingsButton__jLkVn {
+    width: 0px;
+    height: 0px;
 }
 
 .cpeagBA1_PblpJn8Xgtv:after {
