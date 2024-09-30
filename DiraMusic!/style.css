@@ -246,15 +246,10 @@ body > div > section > div > button {
     border-style: dotted;
 }
 
-[data-test-id="SOUND_QUALITY_BUTTON"] {
-    position: fixed;
-    margin-left: 90px;
-    margin-top: -32px;
-}
-
 [data-test-id="QUALITY_SETTINGS_CONTEXT_MENU"] {
     position: fixed;
-    margin-left: 250px;
+    left: 220px;
+    bottom: calc(50% - 170px);
 }
 
 [data-test-id="QUALITY_SETTINGS_CONTEXT_MENU"] * {
