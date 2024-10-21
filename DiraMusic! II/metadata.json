@@ -1,0 +1,9 @@
+{
+    "image": "image.png",
+    "name": "DiraMusic! II",
+    "author": "Diramix",
+    "description": "Dira-Chan",
+    "version": "2.0.0",
+    "css": "style.css",
+    "script": "script.js"
+}

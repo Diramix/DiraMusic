@@ -1,0 +1,218 @@
+body {
+    background-color: #000000;
+}
+
+.ym-light-theme {
+    --ym-background-color-primary-enabled-content: #e8e3ff;
+    --ym-background-color-secondary-enabled-blur: #CFC8ED;
+    --ym-background-color-primary-enabled-basic: #ded9f5;
+    --ym-background-color-primary-enabled-player: #CFC8ED;
+    --ym-background-color-primary-enabled-popover: #ded9f5;
+    --ym-controls-color-secondary-card-enabled: #ded9f590;
+    --ym-controls-color-secondary-card-hovered: #ded9f5;
+    --ym-controls-color-primary-outline-enabled: #CFC8ED;
+}
+
+.ym-dark-theme {
+    --ym-background-color-primary-enabled-content: #060022;
+    --ym-background-color-secondary-enabled-blur: #07003f;
+    --ym-background-color-primary-enabled-basic: #070029;
+    --ym-background-color-primary-enabled-player: #060022;
+    --ym-background-color-primary-enabled-popover: #070029;
+    --ym-controls-color-secondary-card-enabled: #07002990;
+    --ym-controls-color-secondary-card-hovered: #070029;
+    --ym-controls-color-primary-outline-enabled: #07003f;
+}
+
+/*Тайтлбар*/
+/*--------------------------------------------*/
+.H4trq_Zx2d9qOnQgxmxr * {
+    -webkit-app-region: no-drag;
+}
+
+.TitleBar_root__QjdOZ {
+    pointer-events: none;
+}
+
+.TitleBar_button__9MptL {
+    pointer-events: auto;
+}
+/*--------------------------------------------*/
+
+/*БАЗА*/
+/*--------------------------------------------*/
+.DefaultLayout_content__md70Z {
+    position: fixed;
+    right: 65px;
+    left: 210px;
+    bottom: 10px;
+    top: 35px;
+}
+/*--------------------------------------------*/
+
+/*Плеер*/
+/*--------------------------------------------*/
+.PlayerBarDesktop_root__d2Hwi {
+    border-radius: 0px 10px 10px 0px;
+    grid-area: content;
+    position: fixed;
+    left: 0px;
+    right: 12px;
+    top: 32px;
+    bottom: 1px;
+    --player-cover-width: 100%;
+    --player-cover-height: 100%;
+    justify-content: center;
+}
+
+.PlayerBarDesktop_infoCard__tnLS6, .PlayerBarDesktop_info__56v53 {
+    flex-direction: column;
+}
+
+.PlayerBar_root__cXUnU {
+    grid-template-columns: repeat(1,85%);
+    height: -webkit-fill-available;
+    min-height: 55%;
+    width: 200px;
+    -webkit-margin-before: 0px;
+    margin-bottom: 8%;
+    margin-block-start: 170px;
+    border-width: 0;
+}
+
+.PlayerBarDesktop_sonata__sJHY_ {
+    gap: 30px;
+    height: 100px;
+}
+
+.PlayerBarDesktop_infoCard__tnLS6 {
+    --player-controls-preserved-width: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.PlayerBarDesktop_meta__6sm58 {
+    display: block;
+}
+
+.PlayerBarDesktop_meta__6sm58 span{
+    display: block;
+    width: fit-content;
+}
+
+.ChangeVolume_root__HDxtA {
+    height: 50px;
+    margin-left: 15px;
+}
+
+body > div > section > div > button {
+    margin-left: 9px;
+}
+
+[aria-label="Включить текстомузыку Может нарушить доступность"],
+[data-test-id="PLAYERBAR_DESKTOP_PLAY_QUEUE_BUTTON"],
+[data-test-id="SOUND_QUALITY_BUTTON"] {
+    margin-left: 9px;
+}
+
+.ChangeTimecode_timecode__UScFt {
+    opacity: 1;
+}
+
+.SonataControlsDesktop_sonataButtons__ux0qT {
+    gap: 10px;
+}
+
+.PlayerBar_root__cXUnU * .cpeagBA1_PblpJn8Xgtv {
+    background: #ffffff09;
+}
+/*--------------------------------------------*/
+
+/*Vibe - Вайб*/
+/*--------------------------------------------*/
+.VibeBlock_root__z7LtR {
+    margin-top: 0px;
+    border-radius: 10px;
+    overflow: hidden;
+    width: -webkit-fill-available;
+    margin-left: 0px;
+    height: 400px;
+    min-height: 0px;
+}
+/*--------------------------------------------*/
+
+/*NAVBAR*/
+/*--------------------------------------------*/
+[data-test-id="PIN_LIST"] {
+    position: fixed;
+    height: 100%;
+    top: 30px;
+    left: calc(100% - 68px);
+    width: 71px;
+}
+
+.NavbarDesktop_navigation__dLUGW {
+    position: fixed;
+    top: 10px;
+}
+/*--------------------------------------------*/
+
+/*User Profile*/
+/*--------------------------------------------*/
+.NavbarDesktop_user__dzbuH {
+    position: fixed;
+    bottom: 14px;
+    left: -3px;
+    z-index: 100;
+}
+/*--------------------------------------------*/
+
+/*DiraMusic!*/
+/*--------------------------------------------*/
+body > div > p {
+    visibility: hidden;
+}
+
+body > div > p:before {
+    content: "DiraMusic! II";
+    width: 100px;
+    right: -22px;
+    position: absolute;
+    visibility: visible;
+    color: #ff0;
+}
+/*--------------------------------------------*/
+
+/*Слайдеры*/
+/*--------------------------------------------*/
+.ChangeVolume_root__HDxtA {
+    --slider-thumb-box-shadow-color: #0000;
+}
+
+.ChangeTimecode_slider__P4qmT {
+    --slider-thumb-box-shadow-color: #0000;
+}
+/*--------------------------------------------*/
+
+/*Track Lyrics*/
+/*--------------------------------------------*/
+.TrackLyricsModal_header__nWar3,
+.TrackLyricsModal_content__Cstzi {
+    color: #fff;
+}
+/*--------------------------------------------*/
+
+/*Only display: none;*/
+/*--------------------------------------------*/
+.NavbarDesktop_logo__Z4jGx,
+.Pin_title__Jw5WW,
+.Pin_subtitle__rb8Gq,
+.Pin_contextMenu__WGmhp,
+.NavbarDesktop_collapseButton__XQh9d,
+.UserProfile_plusLink__NhVsU,
+.UserID-Avatar:after,
+[data-test-id="REPEAT_BUTTON_NO_REPEAT"],
+[data-test-id="SHUFFLE_BUTTON"] {
+    display: none;
+}
+/*--------------------------------------------*/
