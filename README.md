@@ -1,4 +1,4 @@
-![DiraMusic!](https://github.com/Diramix/DiraMusic/assets/79011730/b91c8203-5753-44ce-9c29-d9f775b832cf)
+![11](https://github.com/user-attachments/assets/3c26afbf-826d-4af3-a3b6-f921310c94da)
 ![License](https://img.shields.io/github/license/Diramix/Spotify-Music.svg?style=for-the-badge)
 
 ### Powered by
@@ -31,9 +31,9 @@
 7. Всё!
 
 ## Сриншоты
-![10](https://github.com/Diramix/DiraMusic/assets/79011730/f923b575-b1c9-4b8b-a663-f40193471343)
-![11](https://github.com/Diramix/DiraMusic/assets/79011730/6fd13116-2f33-4bee-ba55-e3f770f9f09b)
-![12](https://github.com/Diramix/DiraMusic/assets/79011730/2cf7b886-72b8-4be0-a05d-cb48806f52ef)
+![12](https://github.com/user-attachments/assets/0e8228ca-5e85-427e-a3f9-2d40e78bdb83)
+![13](https://github.com/user-attachments/assets/49602b72-e00a-4533-bcfb-6bdf601047a5)
+![14](https://github.com/user-attachments/assets/6d3eedb7-fe1e-4adc-8402-cb98e61aa0a3)
 
 ## Контакты
 ### Discord сервер где вы можете связаться с автором темы
