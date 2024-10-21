@@ -4,7 +4,7 @@
 ### Powered by
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40px" width="40px" /></a>
     
-# DiraMusic! Public Release
+# DiraMusic! II
 
 ## Стол контента
 - [Ссылки](#Ссылки)
@@ -15,15 +15,13 @@
 ## Донат
 <p>
     <a href="https://boosty.to/diramix">
-      <img width="300" alt="ᓚᘏᗢ котик ждёт твоей монетки" src="https://github.com/Diramix/DiraMusic/blob/main/doc%2Fboosty_button.png">
+      <img width="300" alt="ᓚᘏᗢ котик ждёт твоей монетки" src="https://github.com/Diramix/DiraMusic/blob/DiraMusic-2/doc%2Fboosty_button.png">
     </a>
 </p>
 
 ## Установка
-1. Сначала вам нужно скачать мод:
-   
-    [YMusic-DRPC](https://github.com/PulseSync-Official/YMusic-DRPC)
-2. Установите его по инструкции репазитория «PulseSync» или выпросите установщик у Дирамикса.
+1. Сначала вам нужно скачать мод: [YMusic-DRPC](https://github.com/PulseSync-Official/YMusic-DRPC)
+2. Установите его по инструкции репазитория «PulseSync».
 3. Теперь качаем [тему](https://github.com/Diramix/DiraMusic/archive/refs/heads/main.zip).
 4. После установки запускаем программу и нажимаем на кнопку «Директория со стилями», кидаете туда ПАПКУ С ТЕМОЙ.
 5. Откройте боковое меню с закреплёнными элементами в Яндекс Музыке.
