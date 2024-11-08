@@ -212,7 +212,10 @@ body > div > p:before {
 .UserProfile_plusLink__NhVsU,
 .UserID-Avatar:after,
 [data-test-id="REPEAT_BUTTON_NO_REPEAT"],
-[data-test-id="SHUFFLE_BUTTON"] {
+[data-test-id="SHUFFLE_BUTTON"],
+.NavbarDesktop_scrollableContainer__HLc9D:after,
+.NavbarDesktop_scrollableContainer__HLc9D:before,
+.BarBelow_root__KFexT {
     display: none;
 }
 /*--------------------------------------------*/
