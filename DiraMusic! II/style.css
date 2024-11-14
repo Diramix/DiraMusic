@@ -155,6 +155,18 @@ body > div > section > div > button {
     position: fixed;
     top: 10px;
 }
+
+.NavbarDesktop_navigation__dLUGW {
+    position: fixed;
+    left: 0px;
+}
+
+nav.NavbarDesktop_navigation__dLUGW {
+    max-width: none;
+}
+span.NavbarDesktop_title_collapsed__IH9Bc {
+    opacity: 1 !important;
+}
 /*--------------------------------------------*/
 
 /*User Profile*/
