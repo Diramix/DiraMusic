@@ -43,7 +43,6 @@ body {
 /*--------------------------------------------*/
 .DefaultLayout_content__md70Z {
     position: fixed;
-    right: 65px;
     left: 210px;
     bottom: 10px;
     top: 35px;
@@ -164,6 +163,7 @@ body > div > section > div > button {
 nav.NavbarDesktop_navigation__dLUGW {
     max-width: none;
 }
+
 span.NavbarDesktop_title_collapsed__IH9Bc {
     opacity: 1 !important;
 }
