@@ -227,7 +227,8 @@ body > div > p:before {
 [data-test-id="SHUFFLE_BUTTON"],
 .NavbarDesktop_scrollableContainer__HLc9D:after,
 .NavbarDesktop_scrollableContainer__HLc9D:before,
-.BarBelow_root__KFexT {
+.BarBelow_root__KFexT,
+div.PlayerBarDesktop_meta__6sm58 > div.eQt33MLDiQ6DRSuLaYEp {
     display: none;
 }
 /*--------------------------------------------*/
