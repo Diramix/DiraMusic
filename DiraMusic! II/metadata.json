@@ -2,11 +2,15 @@
   "name": "DiraMusic! II",
   "image": "image.png",
   "banner": "banner.png",
-  "author": ["diram1x"],
+  "author": [
+    "diram1x"
+  ],
   "type": "theme",
   "description": "Dira-Chan",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "css": "style.css",
   "script": "script.js",
-  "tags": ["Colored"]
+  "tags": [
+    "Colored"
+  ]
 }

@@ -228,7 +228,8 @@ body > div > p:before {
 .NavbarDesktop_scrollableContainer__HLc9D:after,
 .NavbarDesktop_scrollableContainer__HLc9D:before,
 .BarBelow_root__KFexT,
-div.PlayerBarDesktop_meta__6sm58 > div.eQt33MLDiQ6DRSuLaYEp {
+div.PlayerBarDesktop_meta__6sm58 > div.eQt33MLDiQ6DRSuLaYEp,
+.NavbarDesktop_subTitle__Fqvr4 /*for new YM 5.51.1*/ {
     display: none;
 }
 /*--------------------------------------------*/
